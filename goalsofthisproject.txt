@@ -1,0 +1,19 @@
+I came across the following web link in my Linkedin news feed yesterday and was extremely interested in building a data project
+around discovering how the topic highlighted in the blog post by ESRI is represented by data from the area of Atlanta, Georgia.
+
+https://www.esri.com/arcgis-blog/products/arcgis-online/health/racially-equitable-covid-19-response-using-gis/?fbclid=IwAR1gN84LjbH-O12tmPBzQupHFRX79xYT-C6WHg6gtlHL2J-fIBZy1sRjxFE
+
+It is going to be a goal of this Github page to build a web interface for data around COVID19 and socio-economic and racial 
+demographics.  
+
+I have been active recently in the masks for all, #Masks4all, social media campaign on Twitter, Instagram, Linkedin, and 
+Facebook.  We organized an online art show on Instagram to engage the Atlanta arts scene around wearing masks.  The show was 
+hosted on Instagram.
+
+https://www.instagram.com/p/B_NgpXEAz7B/
+
+I've been taking an online course from ESRI on Cartography that teaches how to use ArcGIS.  I would like to explore how to 
+export a map from ArcGIS to a webpage for hosting as an alternative to Google Maps.  I am impressed by the quality and ease of 
+use of the ArcGIS software and seek to use it in mapping data for this project.
+
+First goal: host an ArcGIS map of the Atlanta metro area on the web.
